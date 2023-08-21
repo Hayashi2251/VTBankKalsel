@@ -1,0 +1,96 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Bank Kalsel
+
+## Skin
+
+### Button
+Button_7DB31382_7065_343F_41D6_641BBE1B2562.label = Tour Information
+Button_7DB31382_7065_343F_41D6_641BBE1B2562_mobile.label = Tour Information
+Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = Panorama List
+Button_7DB33382_7065_343F_41B1_0B0F019C1828_mobile.label = Panorama List
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.label = Location
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = Location
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.label = Location
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.pressedLabel = Location
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B.label = Floorplan
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B_mobile.label = Floorplan
+Button_7DBC8382_7065_343F_4183_17B44518DB40.label = Photoalbum
+Button_7DBC8382_7065_343F_4183_17B44518DB40_mobile.label = Photoalbum
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC.label = Contact Information
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC_mobile.label = Contact Information
+
+### Multiline Text
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.449999999999954vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.45vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.78999999999996vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.79vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.78999999999996vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.79vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Oswald';"><B><I>DOLOR SIT AMET</I></B></SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.78999999999996vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.79vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-family:'Oswald';"><B><I>JOHN DOE</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.78999999999996vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.79vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Oswald';"><I>Licensed Real Estate Salesperson</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.79vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.79vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.78999999999996vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.79vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-family:'Oswald';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.78999999999996vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.79vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-family:'Oswald';"><I>jhondoe@realestate.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.78999999999996vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.79vh;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-family:'Oswald';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.79vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.79vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.78999999999996vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:4.79vh;font-family:Arial, Helvetica, sans-serif;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Metropolis Medium';"><I>Bank Kalsel</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Metropolis Medium';"><I>www.bankkalsel.co.id</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Metropolis Medium';"><I>humas@bankbpdkalsel.co.id</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Metropolis Medium';"><I>Tlf.: (0511) 3350 726-28</I></SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Metropolis Medium';"><I>Bank Kalsel</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Metropolis Medium';"><I>www.bankkalsel.co.id</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Metropolis Medium';"><I>humas@bankbpdkalsel.co.id</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Metropolis Medium';"><I>Tlf.: (0511) 3350 726-28</I></SPAN></SPAN></DIV></div>
+
+### Tab Panel
+TabPanelPage_685824F8_7273_9205_41C8_8C55E0E868D5.label = Lt.3
+TabPanelPage_685824F8_7273_9205_41C8_8C55E0E868D5_mobile.label = Lt.3
+TabPanelPage_685BC4F8_7273_9205_418F_1523863EAA76.label = Lt.1
+TabPanelPage_685BC4F8_7273_9205_418F_1523863EAA76_mobile.label = Lt.1
+TabPanelPage_685BD4F8_7273_9205_41D7_085F5120067D.label = Lt.2
+TabPanelPage_685BD4F8_7273_9205_41D7_085F5120067D_mobile.label = Lt.2
+TabPanelPage_685BF4F8_7273_9205_41D1_91588D5B1F67.label = Luar Gedung
+TabPanelPage_685BF4F8_7273_9205_41D1_91588D5B1F67_mobile.label = Luar Gedung
+
+## Media
+
+### Title
+map_60316673_7259_4DDE_41B0_30CAF0A7A120.label = 5 Karyawan Penghancur Bisnis 20RJ 50x70cm
+map_635068FB_7259_C6CF_41D8_4876B80ABA41.label = penyakit anak kantoran poster version lift (1)
+panorama_209D5642_35BA_B5F2_41C3_B0824208B473.label = Pintu Masuk Utama
+panorama_2F44C82A_3F2B_C142_41C1_C1278085CB63.label = Basement
+panorama_316EBBF5_3F25_46C6_41CA_C4E5163A4000.label = Banking Hall
+panorama_324AF622_3F2F_4142_41BA_D6D3AD9FFACC.label = Lobby Lantai 1
+panorama_404FE5B9_58F5_CCDA_41D2_EB1EF2F0CEE0.label = Gedung Bank Kalsel
+panorama_4153FCBE_592A_70ED_41CC_68EEBAE0B333.label = Mobile ATM 1
+panorama_4780CD59_4821_48A4_41D1_BAFCAFEABEFA.label = Gerbang Utama
+panorama_4854EB54_5C48_43E4_41D5_B3B2F64C43CD.label = Ruang Rapat
+panorama_4BC8F5A7_5077_9D74_41C0_2F8F1C6F6F32.label = Lobby Lantai 2
+panorama_4C008A04_5C58_4D5B_4195_F6423F11F330.label = Hall Lantai 3
+panorama_4C2B7250_5C48_3DFC_41C5_67BD5F94D3A2.label = Safe Deposit Box
+panorama_4C90D0D4_5C58_5EFB_41D6_0B00BA350E50.label = Mushola dan Layanan Pensiunan
+panorama_4CAC6B01_5C58_C35D_41C2_89608A3AF747.label = Mushola
+panorama_4CC75CB3_5C49_C6BC_41C8_3704506C45EA.label = Ruang Rapat
+panorama_4CEECECA_5C48_42EF_41C6_493447F6AC19.label = Area Parkir
+panorama_4D771AAE_5C58_42A7_41D5_D973588307BF.label = Pintu Masuk Banking Hall
+panorama_4E847B9A_5C78_436C_41C6_37E6432F8CDA.label = Customer Service
+panorama_4E8FA7BB_5C48_C2AC_41B3_7BF184580EFD.label = Service Exellence
+panorama_4FE4C0F1_5C58_3EBC_41B1_2E37D2F7963C.label = Lobby Lantai 3
+panorama_535D6B4A_5C48_43EF_41B1_548E840E4C63.label = Mobile ATM 2
+panorama_730CC511_63B2_EFDC_41D1_4747E6C24620.label = Teller
+panorama_737A3CC6_638F_5E44_41A7_7CCBFA130A2D.label = Payment Point
+panorama_75A9F23F_63F1_25C3_41C0_699F737D625F.label = Ruang Pemasaran
+video_0DB57000_5DD8_7D5C_41A3_6E6FCA6A7780.label = 1. 2020 - TVC COORPORATE NEW TAGLINE
+video_45AE0568_4823_BB64_41AB_3A1E946C2600.label = Opening
+video_4ED728EC_6374_2D64_41D6_5FEEA3EBDD18.label = fitur_Mobil_Banking_Bank_Kalsel_Full HD
+video_550315BE_6374_27E4_41C5_FC5D92EAEC55.label = UMKM Bank Kalsel
+video_6807B6FA_72C6_CAC9_41B8_0965546C7959.label = Lift Kanan
+video_6B9B8753_72C6_CBDF_41C2_9A244B3BD6CB.label = Tangga Naik_1
+video_6B9BC1F6_72C6_C6D9_418B_166A07609221.label = Pintu masuk 2_1
+video_6B9BCA14_72C6_C559_41B1_E1D0955DFA08.label = Tangga Turun_1
+video_6B9BE4B8_72C6_CD49_41CB_9BA7A3A788E2.label = Pintu masuk_1
+video_6B9BE9F1_72C6_C6DB_418A_E2910B242DFE.label = Lift Kiri
+video_6B9C1C9D_72C6_DD4B_418E_F636B9543BD5.label = Pintu Lantai 3_1
+video_6B9C3F51_72C6_DBDA_41D1_A0C15B68A4DD.label = Pintu Lobby_1
+video_6C4F9B6A_76E3_0006_41C7_8CF98FF7F903.label = Milarequest antrian
+video_78265B5F_6391_3A44_41D5_49DBCD0FFC53.label = Iklan QRIS fix
+video_78D10C0C_63F1_5DC5_41D1_CAC4F9A872E7.label = Milarequest
+video_792544A5_6391_2EC4_41C2_9C101D53B978.label = Milarequest1
+video_7C1F5674_5D95_F007_41D2_3511E93EA68A.label = thumbnail lantai 2
+video_7C5C07EE_5DAB_5000_41D1_3FF8E6939FDA.label = thumbnail prime room
+
+## Action
+
+### URL
+LinkBehaviour_226E6448_3AB6_7909_41B8_A89976ABFBC3.source = https://www.instagram.com/bankkalsel/
+LinkBehaviour_22FB7CEE_3A9E_0906_41B7_8D0B61B848CE.source = https://twitter.com/bankkalsel
+LinkBehaviour_23CD5F4B_3A92_070F_41CB_F9EF807946EA.source = https://www.facebook.com/bankkalselofficial/
